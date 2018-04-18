@@ -9,5 +9,10 @@ def add(n1,n2,n3):
 	return r
 print add(3,4,5)
 
+def add1(n1,n2,n3,n4):
+	p=n1+n2+n3+n4
+	return p
+print add1(3,4,5,6)
+
 
 	
